@@ -1,0 +1,133 @@
+{
+  "questions": [
+    {
+      "question": "Which US state is named On a bottle of Jack Daniels?",
+      "1": "Tennessee",
+      "2": "Alabama",
+      "3": "Missouri",
+      "4": "Kentucky",
+      "result" : 1
+    },
+    {
+      "question": "Who painted The Water-Lily Pond?",
+      "1": "Edgar Degas",
+      "2": "Claude Monet",
+      "3": "Auguste Renoir",
+      "4": "Paul Cézanne",
+      "result" : 2
+    },
+    {
+      "question": "What is the common name of pantothenic acid?",
+      "1": "Vitamin B3",
+      "2": "Vitamin B4",
+      "3": "Vitamin B5",
+      "4": "Vitamin B6",
+      "result" : 3
+    },
+    {
+      "question": "In the United kingdom, where is Bramber Castle?",
+      "1": "Hampshire",
+      "2": "Surrey",
+      "3": "Kent",
+      "4": "West Sussex",
+      "result" : 4
+    },
+    {
+      "question": "in which country is located Port Said?",
+      "1": "Egypt",
+      "2": "Lybia",
+      "3": "Sudan",
+      "4": "Saudi Arabia",
+      "result" : 1
+    },
+    {
+      "question": "Among these flutes, which one is the smallest?",
+      "1": "Concert flute",
+      "2": "Piccolo",
+      "3": "Flûte d'amour",
+      "4": "Alto flute",
+      "result" : 2
+    },
+    {
+      "question": "What is the larger number of the binary system?",
+      "1": "7",
+      "2": "9",
+      "3": "1",
+      "4": "F",
+      "result" : 3
+    },
+    {
+      "question": "in French slang 'vingt-deux!' is used to warn which event?",
+      "1": "A nice looking person is coming",
+      "2": "The train is coming",
+      "3": "The rain is coming",
+      "4": "Police are coming",
+      "result" : 4
+    },
+    {
+      "question": "In Latin, what number is the word \"decem\"?",
+      "1": "10",
+      "2": "1",
+      "3": "1000",
+      "4": "100",
+      "result" : 1
+    },
+    {
+      "question": "How many carat is pure gold?",
+      "1": "18",
+      "2": "24",
+      "3": "30",
+      "4": "36",
+      "result" : 2
+    },
+    {
+      "question": "How many degrees separates the Tropic of Cancer from Equator?",
+      "1": "18.5",
+      "2": "22.5",
+      "3": "23.5",
+      "4": "25.5",
+      "result" : 3
+    },
+    {
+      "question": "What is the fourteenth letter of the Greek alphabet?",
+      "1": "Pi",
+      "2": "Theta",
+      "3": "Mu",
+      "4": "Xi",
+      "result" : 4
+    },
+    {
+      "question": "A human cursed by lycanthropy is transforming into?",
+      "1": "A werewolf",
+      "2": "A vampire",
+      "3": "A zombie",
+      "4": "A ghost",
+      "result" : 1
+    },
+    {
+      "question": "In traditional British measure, what is abbreviated to cwt?",
+      "1": "Pounds",
+      "2": "Hundredweight",
+      "3": "Stone",
+      "4": "Ounce",
+      "result" : 2
+    },
+    {
+      "question": "What is the name of the outer layer of the atmosphere above the mesosphere?",
+      "1": "Magnetosphere",
+      "2": "Stratosphere",
+      "3": "Ionosphere",
+      "4": "Troposphere",
+      "result" : 3
+    },
+    {
+      "question": "Which country has the international telephone dialling code 33?",
+      "1": "Italy",
+      "2": "Spain",
+      "3": "Germany",
+      "4": "France",
+      "result" : 4
+    }
+  ]
+}
+
